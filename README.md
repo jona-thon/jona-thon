@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jona-thon
 - 👀 I’m building things. Biz student turned designer turned engineer, reluctantly. So you could call me something of a full stack guy.
-- 🌱 I’m primarily learning how to build in Javascript (React, Node, Express).
+- 🌱 I’m primarily learning how to build web apps with Javascript (React, Node, Express).
 - 📫 jonathonreisen@gmail.com
 
 <!---
